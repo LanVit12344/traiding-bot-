@@ -1,0 +1,1122 @@
+2025-06-22 14:12:57,308 - root - INFO - Logging initialized.
+2025-06-22 14:12:57,643 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-22 14:12:57,967 - src.ai_model - INFO - Created new LSTM model
+2025-06-22 14:12:57,969 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-22 14:15:17,107 - root - INFO - Logging initialized.
+2025-06-22 14:15:17,403 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-22 14:15:17,538 - src.ai_model - INFO - Created new LSTM model
+2025-06-22 14:15:17,538 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-22 14:15:24,102 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-22 14:15:26,418 - src.news_sentiment - INFO - HuggingFace sentiment pipeline initialized
+2025-06-22 14:15:26,420 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:26,420 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:26,421 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:26,421 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:26,424 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:26,424 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:31,955 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-22 14:15:32,500 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:32,500 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:32,500 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:32,500 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:32,503 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:32,503 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:38,538 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:38,538 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:38,539 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:38,539 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:38,542 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:38,542 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:44,588 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:44,588 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:44,589 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:44,589 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:44,592 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:44,592 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:50,646 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:50,646 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:50,647 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:50,647 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:50,650 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:50,650 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:56,660 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:56,660 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:56,660 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:56,660 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:15:56,663 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:15:56,663 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:02,791 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:02,791 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:02,792 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:02,792 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:02,795 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:02,795 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:08,828 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:08,828 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:08,829 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:08,829 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:08,832 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:08,832 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:14,900 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:14,900 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:14,901 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:14,901 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:14,904 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:14,904 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:20,936 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:20,936 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:20,936 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:20,936 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:20,939 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:20,939 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:26,949 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:26,949 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:26,949 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:26,949 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:26,952 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:26,952 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:33,004 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:33,004 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:33,005 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:33,005 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:33,009 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:33,009 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:39,031 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:39,031 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:39,032 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:39,032 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:39,035 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:39,035 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:45,087 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:45,087 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:45,088 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:45,088 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:45,091 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:45,091 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:51,142 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:51,142 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:51,143 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:51,143 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:51,146 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:51,146 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:57,174 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:57,174 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:57,175 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:57,175 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:16:57,178 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:16:57,178 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:03,278 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:03,278 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:03,279 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:03,279 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:03,282 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:03,282 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:09,352 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:09,352 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:09,352 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:09,352 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:09,355 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:09,355 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:15,394 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:15,394 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:15,394 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:15,394 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:15,398 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:15,398 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:21,486 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:21,486 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:21,487 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:21,487 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:21,490 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:21,490 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:27,520 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:27,520 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:27,521 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:27,521 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:27,524 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:27,524 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:33,625 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:33,625 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:33,625 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:33,625 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:33,628 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:33,628 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:39,683 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:39,683 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:39,684 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:39,684 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:39,686 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:39,686 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:45,753 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:45,753 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:45,754 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:45,754 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:45,757 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:45,757 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:51,858 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:51,858 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:51,859 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:51,859 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:51,862 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:51,862 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:57,921 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:57,921 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:57,922 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:57,922 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:17:57,925 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:17:57,925 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:03,968 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:03,968 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:03,969 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:03,969 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:03,971 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:03,971 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:10,023 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:10,023 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:10,024 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:10,024 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:10,027 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:10,027 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:16,060 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:16,060 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:16,061 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:16,061 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:16,064 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:16,064 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:22,513 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:22,513 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:22,515 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:22,515 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:22,518 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:22,518 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:28,904 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:28,904 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:28,905 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:28,905 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:28,909 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:28,909 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:35,337 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:35,337 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:35,338 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:35,338 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:35,343 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:35,343 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:41,779 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:41,779 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:41,780 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:41,780 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:41,785 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:41,785 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:48,168 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:48,168 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:48,169 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:48,169 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:48,172 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:48,172 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:54,566 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:54,566 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:54,568 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:54,568 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:18:54,572 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:18:54,572 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:01,110 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:01,110 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:01,111 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:01,111 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:01,115 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:01,115 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:07,652 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:07,652 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:07,653 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:07,653 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:07,657 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:07,657 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:14,032 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:14,032 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:14,033 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:14,033 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:14,038 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:14,038 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:20,432 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:20,432 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:20,433 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:20,433 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:20,438 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:20,438 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:26,835 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:26,835 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:26,836 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:26,836 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:26,840 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:26,840 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:33,308 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:33,308 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:33,309 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:33,309 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:33,313 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:33,313 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:39,422 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:39,422 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:39,423 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:39,423 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:39,427 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:39,427 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:45,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:45,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:45,574 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:45,574 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:45,577 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:45,577 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:46,972 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:46,972 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:46,973 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:46,973 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:46,976 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:46,976 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,260 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,260 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,260 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:48,260 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:48,263 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,263 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,917 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,917 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,918 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:48,918 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:48,922 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:48,922 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:49,548 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:49,548 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:49,548 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:49,548 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:49,552 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:49,552 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:51,756 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:51,756 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:51,757 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:51,757 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:51,761 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:51,761 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:57,609 - root - INFO - Logging initialized.
+2025-06-22 14:19:57,899 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-22 14:19:57,988 - src.ai_model - INFO - Created new LSTM model
+2025-06-22 14:19:57,988 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-22 14:19:59,223 - src.news_sentiment - INFO - HuggingFace sentiment pipeline initialized
+2025-06-22 14:19:59,225 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:59,225 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:59,225 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:59,226 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:59,226 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:59,226 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:19:59,229 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:59,229 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:19:59,229 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:05,297 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:05,297 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:05,297 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:05,298 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:05,298 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:05,298 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:05,302 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:05,302 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:05,302 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:11,390 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:11,390 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:11,390 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:11,391 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:11,391 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:11,391 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:11,394 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:11,394 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:11,394 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:17,490 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:17,490 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:17,490 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:17,491 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:17,491 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:17,491 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:17,495 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:17,495 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:17,495 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:23,579 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:23,579 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:23,579 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:23,580 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:23,580 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:23,580 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:23,583 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:23,583 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:23,583 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:29,667 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:29,667 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:29,667 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:29,667 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:29,667 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:29,667 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:29,671 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:29,671 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:29,671 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:35,758 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:35,758 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:35,758 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:35,759 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:35,759 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:35,759 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:35,762 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:35,762 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:35,762 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:41,847 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:41,847 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:41,847 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:41,848 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:41,848 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:41,848 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:41,851 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:41,851 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:41,851 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:47,918 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:47,918 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:47,918 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:47,919 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:47,919 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:47,919 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:47,922 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:47,922 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:47,922 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:54,018 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:54,018 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:54,018 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:54,019 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:54,019 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:54,019 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:20:54,022 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:54,022 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:20:54,022 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:00,112 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:00,112 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:00,112 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:00,113 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:00,113 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:00,113 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:00,116 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:00,116 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:00,116 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:06,191 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:06,191 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:06,191 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:06,192 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:06,192 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:06,192 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:06,196 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:06,196 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:06,196 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:12,273 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:12,273 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:12,273 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:12,274 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:12,274 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:12,274 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:12,277 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:12,277 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:12,277 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:18,358 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:18,358 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:18,358 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:18,359 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:18,359 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:18,359 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:18,363 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:18,363 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:18,363 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:24,432 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:24,432 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:24,432 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:24,433 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:24,433 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:24,433 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:24,437 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:24,437 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:24,437 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:30,478 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:30,478 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:30,478 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:30,479 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:30,479 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:30,479 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:30,482 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:30,482 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:30,482 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:36,587 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:36,587 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:36,587 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:36,588 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:36,588 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:36,588 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:36,592 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:36,592 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:36,592 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:42,659 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:42,659 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:42,659 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:42,660 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:42,660 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:42,660 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:42,663 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:42,663 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:42,663 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:48,757 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:48,757 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:48,757 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:48,758 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:48,758 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:48,758 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:48,761 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:48,761 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:48,761 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:54,821 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:54,821 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:54,821 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:54,822 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:54,822 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:54,822 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:21:54,825 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:54,825 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:21:54,825 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:00,895 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:00,895 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:00,895 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:00,896 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:00,896 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:00,896 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:00,899 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:00,899 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:00,899 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:07,026 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:07,026 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:07,026 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:07,027 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:07,027 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:07,027 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:07,030 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:07,030 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:07,030 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:13,095 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:13,095 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:13,095 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:13,095 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:13,095 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:13,095 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:13,098 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:13,098 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:13,098 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:19,182 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:19,182 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:19,182 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:19,183 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:19,183 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:19,183 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:19,186 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:19,186 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:19,186 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:25,281 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:25,281 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:25,281 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:25,282 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:25,282 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:25,282 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:25,285 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:25,285 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:25,285 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:31,395 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:31,395 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:31,395 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:31,396 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:31,396 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:31,396 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:31,399 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:31,399 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:31,399 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:37,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:37,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:37,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:37,574 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:37,574 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:37,574 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:37,578 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:37,578 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:37,578 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:43,515 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:43,515 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:43,515 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:43,516 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:43,516 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:43,516 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:43,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:43,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:43,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:49,456 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:49,456 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:49,456 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:49,457 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:49,457 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:49,457 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:49,459 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:49,459 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:49,459 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:55,390 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:55,390 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:55,390 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:55,390 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:55,390 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:55,390 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:22:55,393 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:55,393 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:22:55,393 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:23:01,327 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:23:01,327 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:23:01,327 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:23:01,328 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:23:01,328 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:23:01,328 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:23:01,331 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:23:01,331 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:23:01,331 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:41,543 - root - INFO - Logging initialized.
+2025-06-22 14:26:41,840 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-22 14:26:41,971 - src.ai_model - INFO - Created new LSTM model
+2025-06-22 14:26:41,972 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-22 14:26:48,545 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-22 14:26:50,691 - src.news_sentiment - INFO - HuggingFace sentiment pipeline initialized
+2025-06-22 14:26:50,693 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,693 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,693 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,694 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:50,693 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,694 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:50,694 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:50,694 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:50,699 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,699 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,699 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:50,699 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,310 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,310 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,312 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:57,312 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:57,315 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,315 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,317 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-22 14:26:57,841 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,841 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,842 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:57,842 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:26:57,848 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:26:57,848 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,056 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,056 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,068 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:05,069 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,068 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:05,069 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,072 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:05,072 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:05,074 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,074 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,075 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:05,075 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,167 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,167 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,180 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,180 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:12,180 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,181 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:12,180 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:12,181 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:12,185 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,186 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,185 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:12,186 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,265 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,265 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,280 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:19,281 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,280 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:19,281 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,282 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:19,282 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:19,285 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,285 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,287 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:19,287 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,389 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,389 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,404 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,404 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:26,404 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,405 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:26,404 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:26,405 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:26,410 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,411 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,410 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:26,411 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,499 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,499 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,518 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:33,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,518 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:33,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,520 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:33,520 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:33,522 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,522 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,524 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:33,524 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,630 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,630 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,646 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,646 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:40,646 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,647 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:40,646 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:40,647 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:40,651 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,652 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,651 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:40,652 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,627 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,627 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,638 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:47,638 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,638 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:47,638 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,641 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:47,641 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:47,644 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,644 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,646 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:47,646 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,573 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,584 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,584 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:54,584 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,585 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:54,584 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:54,585 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:27:54,589 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,589 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,589 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:27:54,589 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,508 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,508 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,519 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:01,519 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,520 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:01,519 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:01,520 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:01,524 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,525 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,524 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:01,525 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,455 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,465 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,455 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,466 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:08,465 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,467 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:08,466 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:08,467 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:08,471 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,471 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,471 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:08,471 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,313 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,314 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,313 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,314 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:15,314 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,315 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:15,314 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:15,315 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:15,318 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,319 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,318 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:15,319 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,212 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,212 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,221 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,223 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:22,221 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,224 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:22,223 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:22,224 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:22,228 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,228 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,228 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:22,228 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:28,605 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:28,605 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:29,092 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:29,092 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:29,092 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:29,092 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:29,095 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:29,095 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:29,098 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:29,098 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:29,099 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:29,099 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,027 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,035 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,027 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,037 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:36,035 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,038 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:36,037 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:36,038 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:36,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:36,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,885 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,886 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,885 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,888 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:42,886 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,888 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:42,888 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:42,888 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:42,892 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,892 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,892 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:42,892 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,747 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,749 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,747 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,749 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:49,749 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,750 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:49,749 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:49,750 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:28:49,753 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,754 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,753 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:28:49,754 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:31:56,523 - root - INFO - Logging initialized.
+2025-06-22 14:31:56,819 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-22 14:31:56,953 - src.ai_model - INFO - Created new LSTM model
+2025-06-22 14:31:56,953 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-22 14:32:04,231 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-22 14:32:06,104 - src.news_sentiment - INFO - HuggingFace sentiment pipeline initialized
+2025-06-22 14:32:06,105 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,106 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,106 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,105 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,106 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:06,106 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,106 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:06,106 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,107 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:06,106 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:06,106 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:06,107 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:06,114 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,114 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,115 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,114 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,114 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:06,115 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,777 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,780 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,777 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,781 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:13,780 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,781 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:13,781 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:13,781 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:13,786 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,786 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,786 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,786 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:13,788 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-22 14:32:14,319 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:14,319 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:14,320 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:14,320 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:14,328 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:14,328 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,803 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,803 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,829 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,829 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,829 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:22,829 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,832 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:22,829 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,832 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:22,829 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:22,832 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:22,832 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:22,839 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,839 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,840 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,840 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,840 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:22,840 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,008 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,019 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,008 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,032 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,032 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:31,019 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,036 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:31,032 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,036 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:31,032 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:31,036 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:31,036 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:31,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,043 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,042 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:31,043 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,383 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,404 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,383 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,405 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,405 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:39,404 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,408 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:39,405 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,410 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:39,405 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:39,408 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:39,410 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:39,417 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,417 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,417 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,417 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,417 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:39,417 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,672 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,681 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,672 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,690 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,681 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,690 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:47,690 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:47,690 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,694 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:47,690 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:47,690 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:47,694 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:47,699 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,700 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,700 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,699 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,700 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:47,700 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:55,500 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,074 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:55,500 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,086 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,074 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,086 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:56,089 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:56,086 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,090 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:56,086 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:56,089 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:56,090 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:32:56,096 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,097 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,097 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,096 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,097 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:32:56,097 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,551 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,571 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,551 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,573 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:04,574 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,571 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,577 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:04,573 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:04,574 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,579 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:04,577 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:04,579 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:04,584 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,585 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,584 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,585 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,585 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:04,585 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:11,796 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:11,796 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,908 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,911 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:12,908 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,915 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,911 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:12,916 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:12,915 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,918 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:12,916 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:12,918 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:12,923 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,924 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,923 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,925 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,924 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:12,925 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:20,631 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:20,631 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,251 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:21,251 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,251 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:21,252 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,251 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,259 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:21,252 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,260 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:21,259 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:21,260 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:21,265 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,267 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,265 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,267 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,268 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:21,268 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:22,933 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:22,933 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:22,935 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:22,935 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:22,938 - src.trader - INFO - Changing symbol from DOGEUSDT to BTCUSDT
+2025-06-22 14:33:22,938 - src.trader - INFO - Changing symbol from DOGEUSDT to BTCUSDT
+2025-06-22 14:33:24,101 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:24,101 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:24,101 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:24,101 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:24,105 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:24,105 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,096 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,627 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,096 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,637 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:30,641 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,627 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,641 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:30,637 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:30,641 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,642 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:30,641 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:30,642 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:30,648 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,649 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,648 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,649 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,649 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:30,649 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,598 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,615 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,598 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,625 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:38,626 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,615 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,626 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:38,625 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:38,626 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,632 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:38,626 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:38,632 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:38,637 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,638 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,637 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,638 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,640 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:38,640 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,438 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,455 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,438 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,456 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,456 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:46,455 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,458 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:46,456 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,459 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:46,456 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:46,458 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:46,459 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:46,464 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,465 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,465 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,464 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,465 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:46,465 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:53,885 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,342 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:53,885 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,352 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:54,342 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,352 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,352 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:54,353 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:54,352 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,354 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:54,353 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:54,354 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:33:54,358 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,358 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,361 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,361 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,361 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:33:54,361 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:08,729 - root - INFO - Logging initialized.
+2025-06-22 14:37:09,024 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-22 14:37:09,157 - src.ai_model - INFO - Created new LSTM model
+2025-06-22 14:37:09,157 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-22 14:37:16,184 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-22 14:37:17,851 - src.news_sentiment - INFO - HuggingFace sentiment pipeline initialized
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,853 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,854 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:17,865 - src.trader - INFO - Changing symbol from DOGEUSDT to BTCUSDT
+2025-06-22 14:37:17,865 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,865 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,865 - src.trader - INFO - Changing symbol from DOGEUSDT to BTCUSDT
+2025-06-22 14:37:17,865 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:18,379 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:17,865 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:18,379 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:18,401 - tensorflow - WARNING - From C:\Users\Vitus\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-22 14:37:18,926 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:18,926 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:18,927 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:18,927 - src.trader - WARNING - Could not get analysis data for this cycle.
+2025-06-22 14:37:19,044 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'
+2025-06-22 14:37:19,044 - src.trader - ERROR - Error getting analysis data: DataManager.get_historical_data() got an unexpected keyword argument 'end_time'

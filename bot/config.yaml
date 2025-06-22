@@ -1,0 +1,87 @@
+ai:
+  confidence_threshold: 1.0
+  lookback_period: 60
+  model_type: lstm
+  training_interval: 24
+backtest:
+  commission: 0.001
+  end_date: '2024-01-01'
+  initial_balance: 10000
+  start_date: '2023-01-01'
+binance:
+  api_key: your_binance_api_key_here
+  secret_key: your_binance_secret_key_here
+dashboard:
+  port: 8501
+  refresh_interval: 5
+environment: development
+indicators:
+  atr:
+    period: 14
+  bollinger_bands:
+    period: 20
+    std_dev: 2
+  ema:
+    long_period: 26
+    short_period: 12
+    trend_period: 200
+  macd:
+    fast_period: 12
+    signal_period: 9
+    slow_period: 26
+  rsi:
+    overbought: 70
+    oversold: 30
+    period: 14
+logging:
+  backup_count: 5
+  file: trades.log
+  level: INFO
+  max_file_size: 10
+news:
+  check_interval: 30
+  coindesk_api_key: your_coindesk_api_key_here
+  cryptopanic_api_key: your_cryptopanic_api_key_here
+  enabled: true
+  sentiment_threshold: -0.3
+  sources:
+  - coindesk
+  - cryptopanic
+openai:
+  api_key: your_openai_api_key_here
+risk:
+  max_daily_loss: 0.05
+  stop_loss_atr_multiplier: 2.0
+  take_profit_atr_multiplier: 3.0
+  trailing_stop: true
+  trailing_stop_distance: 0.01
+risk_management:
+  stop_loss:
+    atr_multiplier: 2.0
+  take_profit:
+    atr_multiplier: 3.0
+  use_trailing_stop: true
+telegram:
+  bot_token: your_telegram_bot_token_here
+  chat_id: your_chat_id_here
+  enabled: true
+  notify_on:
+  - entry
+  - exit
+  - stop_loss
+  - take_profit
+  - error
+trading:
+  available_symbols:
+  - BTCUSDT
+  - ETHUSDT
+  - SOLUSDT
+  - BNBUSDT
+  - XRPUSDT
+  - DOGEUSDT
+  max_position_size: 0.02
+  max_positions: 3
+  mode: paper
+  symbol: DOGEUSDT
+  timeframe: 1m
+  data_fetch_days: 5

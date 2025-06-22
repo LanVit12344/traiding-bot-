@@ -1,0 +1,53 @@
+2025-06-21 13:14:45,918 - __main__ - INFO - Initializing trading bot components...
+2025-06-21 13:14:45,924 - __main__ - INFO - Configuration loaded
+2025-06-21 13:14:46,218 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-21 13:14:46,218 - __main__ - INFO - Data manager initialized
+2025-06-21 13:14:46,218 - __main__ - INFO - Indicator engine initialized
+2025-06-21 13:14:46,402 - src.ai_model - INFO - Created new LSTM model
+2025-06-21 13:14:46,403 - __main__ - INFO - AI model initialized
+2025-06-21 13:14:46,403 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-21 13:14:46,748 - src.news_sentiment - WARNING - Could not initialize HuggingFace pipeline: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-06-21 13:14:46,748 - __main__ - INFO - News sentiment analyzer initialized
+2025-06-21 13:14:46,749 - __main__ - INFO - Strategy initialized
+2025-06-21 13:14:46,749 - __main__ - INFO - Risk manager initialized
+2025-06-21 13:14:46,749 - __main__ - INFO - Telegram notifier initialized
+2025-06-21 13:14:46,750 - __main__ - INFO - Trader initialized
+2025-06-21 13:14:46,807 - __main__ - INFO - Dashboard initialized
+2025-06-21 13:14:46,808 - __main__ - INFO - All components initialized successfully
+2025-06-21 13:14:46,808 - __main__ - INFO - Testing connections...
+2025-06-21 13:14:47,056 - __main__ - INFO - Binance connection: OK (Price: $103,832.620000)
+2025-06-21 13:14:47,160 - src.telegram_notifier - ERROR - Error sending Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botyour_telegram_bot_token_here/sendMessage
+2025-06-21 13:14:47,161 - src.telegram_notifier - ERROR - Telegram connection test failed
+2025-06-21 13:14:47,161 - __main__ - ERROR - Telegram connection failed
+2025-06-21 13:14:47,189 - src.news_sentiment - ERROR - Error fetching CoinDesk news: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/news?limit=20 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000016EB2F265D0>: Failed to resolve 'api.coindesk.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-21 13:14:47,279 - src.news_sentiment - ERROR - Error fetching CryptoPanic news: 403 Client Error: Forbidden for url: https://cryptopanic.com/api/v1/posts/?auth_token=your_cryptopanic_api_key_here&filter=hot&public=true&limit=20
+2025-06-21 13:14:47,280 - __main__ - INFO - Sentiment analysis: OK (Score: 0.00)
+2025-06-21 13:14:47,281 - __main__ - INFO - Connection tests completed
+2025-06-21 13:28:56,987 - __main__ - INFO - Initializing trading bot components...
+2025-06-21 13:28:56,992 - __main__ - INFO - Configuration loaded
+2025-06-21 13:28:57,287 - src.data_manager - INFO - Binance client initialized with API credentials
+2025-06-21 13:28:57,287 - __main__ - INFO - Data manager initialized
+2025-06-21 13:28:57,287 - __main__ - INFO - Indicator engine initialized
+2025-06-21 13:28:57,406 - src.ai_model - INFO - Created new LSTM model
+2025-06-21 13:28:57,406 - __main__ - INFO - AI model initialized
+2025-06-21 13:28:57,407 - src.news_sentiment - INFO - OpenAI client initialized
+2025-06-21 13:28:57,784 - src.news_sentiment - WARNING - Could not initialize HuggingFace pipeline: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-06-21 13:28:57,784 - __main__ - INFO - News sentiment analyzer initialized
+2025-06-21 13:28:57,785 - __main__ - INFO - Strategy initialized
+2025-06-21 13:28:57,785 - __main__ - INFO - Risk manager initialized
+2025-06-21 13:28:57,785 - __main__ - INFO - Telegram notifier initialized
+2025-06-21 13:28:57,785 - __main__ - INFO - Trader initialized
+2025-06-21 13:28:57,842 - __main__ - INFO - Dashboard initialized
+2025-06-21 13:28:57,842 - __main__ - INFO - All components initialized successfully
+2025-06-21 13:28:57,842 - __main__ - INFO - Starting dashboard...
+2025-06-21 13:28:57,842 - __main__ - INFO - Starting trading bot...
+2025-06-21 13:28:57,842 - src.trader - INFO - Starting trading bot...
+2025-06-21 13:28:58,088 - src.trader - INFO - Binance connection: OK
+2025-06-21 13:28:58,191 - src.telegram_notifier - ERROR - Error sending Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botyour_telegram_bot_token_here/sendMessage
+2025-06-21 13:28:58,192 - src.telegram_notifier - ERROR - Telegram connection test failed
+2025-06-21 13:28:58,192 - src.trader - WARNING - Telegram connection failed
+2025-06-21 13:28:58,192 - src.trader - INFO - Account balance: $10,000.00
+2025-06-21 13:28:58,193 - src.data_manager - INFO - WebSocket started for BTCUSDT
+2025-06-21 13:28:58,193 - src.trader - INFO - Trading bot started successfully
+2025-06-21 13:28:58,273 - src.telegram_notifier - ERROR - Error sending Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botyour_telegram_bot_token_here/sendMessage
+2025-06-21 13:28:58,273 - __main__ - INFO - Trading bot started successfully

@@ -1,0 +1,19 @@
+# Binance API Keys
+BINANCE_API_KEY=your_binance_api_key_here
+BINANCE_SECRET_KEY=your_binance_secret_key_here
+
+# Telegram Bot
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+TELEGRAM_CHAT_ID=your_chat_id_here
+
+# OpenAI API (for sentiment analysis)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# CryptoPanic API (for news)
+CRYPTOPANIC_API_KEY=your_cryptopanic_api_key_here
+
+# CoinDesk API (for news)
+COINDESK_API_KEY=your_coindesk_api_key_here
+
+# Environment
+ENVIRONMENT=development  # development, production 
